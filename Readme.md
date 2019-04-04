@@ -1,12 +1,12 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [CControl.ascx](./CS/WebSite/CControl.ascx) (VB: [CControl.ascx.vb](./VB/WebSite/CControl.ascx.vb))
+* [CControl.ascx](./CS/WebSite/CControl.ascx) (VB: [CControl.ascx](./VB/WebSite/CControl.ascx))
 * [CControl.ascx.cs](./CS/WebSite/CControl.ascx.cs) (VB: [CControl.ascx.vb](./VB/WebSite/CControl.ascx.vb))
-* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 * [ECControl.ascx](./CS/WebSite/ECControl.ascx) (VB: [ECControl.ascx](./VB/WebSite/ECControl.ascx))
-* [ECControl.ascx.cs](./CS/WebSite/ECControl.ascx.cs) (VB: [ECControl.ascx](./VB/WebSite/ECControl.ascx))
+* [ECControl.ascx.cs](./CS/WebSite/ECControl.ascx.cs) (VB: [ECControl.ascx.vb](./VB/WebSite/ECControl.ascx.vb))
 <!-- default file list end -->
 # How to use client instances of DevExpress ASP.NET controls within an ASP.NET User Control
 
