@@ -28,7 +28,7 @@ namespace DockPanels {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxDocking.ASPxDockManager dockManager;
+        protected global::DevExpress.Web.ASPxDockManager dockManager;
         
         /// <summary>
         /// dckpnl1 control.
@@ -37,7 +37,7 @@ namespace DockPanels {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxDocking.ASPxDockPanel dckpnl1;
+        protected global::DevExpress.Web.ASPxDockPanel dckpnl1;
         
         /// <summary>
         /// CControl1 control.
@@ -55,7 +55,7 @@ namespace DockPanels {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxDocking.ASPxDockPanel dckpnl2;
+        protected global::DevExpress.Web.ASPxDockPanel dckpnl2;
         
         /// <summary>
         /// CControl2 control.
@@ -73,7 +73,7 @@ namespace DockPanels {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxDocking.ASPxDockPanel dckpnl3;
+        protected global::DevExpress.Web.ASPxDockPanel dckpnl3;
         
         /// <summary>
         /// ECControl1 control.
@@ -91,7 +91,7 @@ namespace DockPanels {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxDocking.ASPxDockPanel dckpnl4;
+        protected global::DevExpress.Web.ASPxDockPanel dckpnl4;
         
         /// <summary>
         /// ECControl2 control.
@@ -109,7 +109,7 @@ namespace DockPanels {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxDocking.ASPxDockZone zone1;
+        protected global::DevExpress.Web.ASPxDockZone zone1;
         
         /// <summary>
         /// zone2 control.
@@ -118,7 +118,7 @@ namespace DockPanels {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxDocking.ASPxDockZone zone2;
+        protected global::DevExpress.Web.ASPxDockZone zone2;
         
         /// <summary>
         /// zone3 control.
@@ -127,7 +127,7 @@ namespace DockPanels {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxDocking.ASPxDockZone zone3;
+        protected global::DevExpress.Web.ASPxDockZone zone3;
         
         /// <summary>
         /// zone4 control.
@@ -136,6 +136,6 @@ namespace DockPanels {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxDocking.ASPxDockZone zone4;
+        protected global::DevExpress.Web.ASPxDockZone zone4;
     }
 }

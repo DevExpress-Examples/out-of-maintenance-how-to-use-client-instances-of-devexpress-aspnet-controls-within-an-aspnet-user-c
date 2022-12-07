@@ -1,6 +1,6 @@
 ﻿Imports Microsoft.VisualBasic
 Imports System
-Imports DevExpress.Web.ASPxDocking
+Imports DevExpress.Web
 
 Namespace DockPanels
 	Partial Public Class [Default]

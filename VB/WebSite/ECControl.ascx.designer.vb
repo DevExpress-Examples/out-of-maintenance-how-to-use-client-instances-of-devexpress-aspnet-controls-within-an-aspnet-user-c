@@ -22,7 +22,7 @@ Namespace DockPanels
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected btnTime As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected btnTime As Global.DevExpress.Web.ASPxButton
 
 		''' <summary>
 		''' lblTime control.
@@ -31,6 +31,6 @@ Namespace DockPanels
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected lblTime As Global.DevExpress.Web.ASPxEditors.ASPxLabel
+		Protected lblTime As Global.DevExpress.Web.ASPxLabel
 	End Class
 End Namespace

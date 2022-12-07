@@ -31,7 +31,7 @@ Namespace DockPanels
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected dockManager As Global.DevExpress.Web.ASPxDocking.ASPxDockManager
+		Protected dockManager As Global.DevExpress.Web.ASPxDockManager
 
 		''' <summary>
 		''' dckpnl1 control.
@@ -40,7 +40,7 @@ Namespace DockPanels
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected dckpnl1 As Global.DevExpress.Web.ASPxDocking.ASPxDockPanel
+		Protected dckpnl1 As Global.DevExpress.Web.ASPxDockPanel
 
 		''' <summary>
 		''' CControl1 control.
@@ -58,7 +58,7 @@ Namespace DockPanels
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected dckpnl2 As Global.DevExpress.Web.ASPxDocking.ASPxDockPanel
+		Protected dckpnl2 As Global.DevExpress.Web.ASPxDockPanel
 
 		''' <summary>
 		''' CControl2 control.
@@ -76,7 +76,7 @@ Namespace DockPanels
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected dckpnl3 As Global.DevExpress.Web.ASPxDocking.ASPxDockPanel
+		Protected dckpnl3 As Global.DevExpress.Web.ASPxDockPanel
 
 		''' <summary>
 		''' ECControl1 control.
@@ -94,7 +94,7 @@ Namespace DockPanels
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected dckpnl4 As Global.DevExpress.Web.ASPxDocking.ASPxDockPanel
+		Protected dckpnl4 As Global.DevExpress.Web.ASPxDockPanel
 
 		''' <summary>
 		''' ECControl2 control.
@@ -112,7 +112,7 @@ Namespace DockPanels
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected zone1 As Global.DevExpress.Web.ASPxDocking.ASPxDockZone
+		Protected zone1 As Global.DevExpress.Web.ASPxDockZone
 
 		''' <summary>
 		''' zone2 control.
@@ -121,7 +121,7 @@ Namespace DockPanels
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected zone2 As Global.DevExpress.Web.ASPxDocking.ASPxDockZone
+		Protected zone2 As Global.DevExpress.Web.ASPxDockZone
 
 		''' <summary>
 		''' zone3 control.
@@ -130,7 +130,7 @@ Namespace DockPanels
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected zone3 As Global.DevExpress.Web.ASPxDocking.ASPxDockZone
+		Protected zone3 As Global.DevExpress.Web.ASPxDockZone
 
 		''' <summary>
 		''' zone4 control.
@@ -139,6 +139,6 @@ Namespace DockPanels
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected zone4 As Global.DevExpress.Web.ASPxDocking.ASPxDockZone
+		Protected zone4 As Global.DevExpress.Web.ASPxDockZone
 	End Class
 End Namespace

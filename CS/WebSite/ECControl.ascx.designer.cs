@@ -19,7 +19,7 @@ namespace DockPanels {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnTime;
+        protected global::DevExpress.Web.ASPxButton btnTime;
         
         /// <summary>
         /// lblTime control.
@@ -28,6 +28,6 @@ namespace DockPanels {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxLabel lblTime;
+        protected global::DevExpress.Web.ASPxLabel lblTime;
     }
 }
